@@ -1,6 +1,6 @@
 # My Prompt
 
-This repo contains a file with a prompt example for `bash`. Modified from the prompt of **[rwxrob][https://github.com/rwxrob]**.
+This repo contains a file with a prompt example for `bash`. Modified from the prompt of **[rwxrob](https://github.com/rwxrob)**.
 
 My version is simpler, and I changed the style and colors to my liking.
 
